@@ -2,7 +2,6 @@
 
 - :grin:	i'am 24 years old
 - :open_book:	Currently Studying Analysis and Software Development at the Federal Institute of Paraná - IFPR
-- :computer: Using in languages like: python, php, javascript, kotlin, ruby, c ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trallerd&layout=compact&theme=dracula)](https://github.com/trallerd/github-readme-stats) 
 
