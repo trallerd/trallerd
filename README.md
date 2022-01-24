@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trallerd&layout=compact&theme=dracula)](https://github.com/trallerd/github-readme-stats) 
 
-- :grin:	i'am 24 years old
+- :grin:	i'am 25 years old
 - :open_book:	Studying Analysis and Systems Development at the Federal Institute of Paraná - IFPR
 
 ## About me
