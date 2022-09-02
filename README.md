@@ -4,7 +4,8 @@
 
 - :grin:	i'am 25 years old
 - :woman_student:	Graduated Analysis and Systems Development at the Federal Institute of Paraná - IFPR
-- :books: Postgraduate in Cloud Computing Projects (attending)
+- :books: Postgraduate in  Cloud Computing Projects(attending)
+- :books: Postgraduate in MBA in Big Data and Competitive Intelligence (attending)
 
 ## About me
 
